@@ -9,7 +9,7 @@
 
   <groupId>com.nesscomputing.testing</groupId>
   <artifactId>findbugs-annotations</artifactId>
-  <version>2.0.0</version>
+  <version>2.0.1-SNAPSHOT</version>
   <description>because the findbugs people are incapable of packaging jars without duplicates</description>
 
   <scm>
